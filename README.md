@@ -1,6 +1,6 @@
 # HUDSmart
 
-Chris Chen, Eshaan Patheria, Wenzhe (Harry) Xue
+Chris Chen, Eshaan Patheria, Harry Xue
 CS50 Final Project: HUDSmart (iPhone app)
 
 
